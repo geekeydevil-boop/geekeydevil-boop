@@ -5,7 +5,7 @@ zip="url.to.wizard"
 
 name="Build koko"
 version="1"
-url="https://www.dropbox.com/scl/fi/q6ovbw8bl7wb4chn8yzhd/buildtest1_guisettings.zip?rlkey=2ntxcyshkzeja9kmi482suxw1&st=82obhl7r&dl=0"
+url="https://www.dropbox.com/scl/fi/q6ovbw8bl7wb4chn8yzhd/buildtest1_guisettings.zip?rlkey=2ntxcyshkzeja9kmi482suxw1&st=82obhl7r&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.2"
@@ -16,5 +16,6 @@ preview="http://"
 adult="no"
 info="http://"
 description="koko builds"
+
 
 
