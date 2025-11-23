@@ -3,10 +3,8 @@ version="2.0.7"
 zip="url.to.wizard"
 
 
-
-
 name="Build Name"
-version="1"
+version="1.0"
 url="https://www.dropbox.com/scl/fi/rahmn67j9br1xuinxmtr1/kokoStnd.zip?rlkey=ur1dllqawycvtpohdj23izudx&st=izggd2k3&dl=1"
 minor="http://"
 gui="http://"
@@ -16,5 +14,5 @@ icon="http://"
 fanart="http://"
 preview="http://"
 adult="no"
-info="http://"
-description="koko builds”
+info="http//"
+description="My build"
